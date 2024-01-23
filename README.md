@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python and DJango.
+## I am Luis Ramirez, and I live in Wendell NC, 25 minutes from Downtown Raleigh. 
+## I am a Software Developer, I enjoy building fully functional websites from Front-End to Back-End.
+- 🌱 I’m currently learning Python and Django.
 - 📫 How to reach me: Luisrcal100@gmail.com
-
+- Linkedin: https://www.linkedin.com/in/luisramirez0618/ 
 
 <!--
 **Luisrc91/Luisrc91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
