@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Luis Ramirez, and I live in Wendell NC, 25 minutes from Downtown Raleigh. 
+## I am Luis Ramirez
 ## I am a Software Developer, I enjoy building fully functional websites from Front-End to Back-End.
 - 🌱 I’m currently learning Python and Django.
 - 📫 How to reach me: Luisrcal100@gmail.com
