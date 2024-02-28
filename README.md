@@ -3,7 +3,9 @@
 ## I am a Software Developer, I enjoy building fully functional websites from Front-End to Back-End.
 - 🌱 I’m currently learning Python and Django.
 - 📫 How to reach me: Luisrcal100@gmail.com
-- Linkedin: https://www.linkedin.com/in/luisramirez0618/ 
+- Linkedin: https://www.linkedin.com/in/luisramirez0618/
+
+-  🔭 I’m currently working on the RealEstate Website!
 
 <!--
 **Luisrc91/Luisrc91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
